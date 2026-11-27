@@ -1,0 +1,9 @@
+{
+  "requireLogin": true,
+  "port": 3100,
+  "db": {
+    "user": "YOUR_DB_USER",
+    "password": "YOUR_DB_PASSWORD",
+    "connectString": "YOUR_HOST:1521/YOUR_SERVICE_NAME"
+  }
+}
